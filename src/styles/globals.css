@@ -1,0 +1,48 @@
+:root {
+    /* colors */
+    --red-main: #d83636;
+    --yellow-main: #f2cf03;
+    --black-main: #1e1919;
+    --beige-main: #fdf6e9;
+
+    /* text colors */
+    --red-text: #d83636;
+    --black-text: #1e1919;
+
+    /* font & font specs */
+    --fw-nor: 400;
+    --fw-med: 500;
+    --fw-heavy: 600;
+    --fs-xs: 8px;
+    --fs-small: 16px;
+    --fs-medium: 24px;
+    --fs-large: 48px;
+    --fs-xlarge: 72px;
+}
+
+* {
+    font-family: "Poppins", sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+@font-face {
+    font-family: "Poppins", sans-serif;
+
+    src: url("/fonts/poppins-regular.woff") format("woff"),
+        url("/fonts/poppins-regular.woff2") format("woff2");
+    /* Add more font weights and styles if needed */
+    font-weight: 800;
+    font-style: normal;
+    /* Specify Unicode range to include Cyrillic characters */
+    unicode-range: U+0400-045F, /* Cyrillic */ U+0460-052F,
+        /* Cyrillic Supplement */ U+2DE0-2DFF,
+        /* Cyrillic Extended-A */ U+A640-A69F,
+        /* Cyrillic Extended-B */ U+1C80-1C8F; /* Cyrillic Extended-C */
+}
+
+body {
+    font-family: var(--font-fam);
+    background-color: white;
+    color: var(--black-main);
+}

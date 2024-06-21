@@ -1,0 +1,47 @@
+.main_div {
+    background-image: url("/images/akred_ban.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+    position: relative;
+}
+
+.links_div {
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    transform: translateY(-50%);
+}
+
+.links {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: var(--fw-heavy);
+    font-size: medium;
+    color: var(--red-main);
+}
+
+.links_text {
+    border: 1px solid var(--red-main);
+    border-radius: 50px;
+    width: fit-content;
+    padding: 10px 25px;
+    margin-bottom: 40px;
+    transition: color 0.4s ease-in-out, background-color 0.4s ease-in-out;
+}
+
+.links_text:hover {
+    color: white;
+    background-color: var(--red-main);
+}
+
+/* optimise for mobile */
+
+@media screen and (max-width: 425px) {
+    .links_div {
+        left: 0;
+        padding-inline: 20px;
+        text-align: center;
+    }
+}

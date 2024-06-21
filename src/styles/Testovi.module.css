@@ -1,0 +1,98 @@
+.main_div {
+    padding-inline: 80px;
+}
+
+.heading {
+    font-size: var(--fs-large);
+    color: var(--red-main);
+    font-weight: var(--fw-heavy);
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.test_text {
+    font-weight: var(--fw-heavy);
+    font-size: var(--fs-medium);
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.test_div {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 100px;
+    margin-bottom: 40px;
+}
+
+.test_img {
+    width: 100%;
+    border-radius: 50px;
+    box-shadow: 0px 4px 20px 0px #00000040;
+}
+
+.test_card {
+    position: relative;
+}
+
+.link_div {
+    width: fit-content;
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.link_div a {
+    text-decoration: none;
+    white-space: nowrap;
+    text-align: center;
+    color: var(--red-main);
+    font-size: 20px;
+    font-weight: var(--fw-heavy);
+}
+
+.link_div a p {
+    padding: 15px;
+    border: 2px solid var(--red-main);
+    border-radius: 50px;
+    transition: color 0.4s ease-in-out, background-color 0.4s ease-in-out;
+}
+
+.link_marg {
+    margin-bottom: 20px;
+}
+
+.link_div a p:hover {
+    color: white;
+    background-color: var(--red-main);
+}
+/* optimize for mobile */
+
+@media screen and (max-width: 425px) {
+    .main_div {
+        padding-inline: 20px;
+    }
+
+    .test_text {
+        width: 100%;
+        font-size: var(--fs-small);
+    }
+
+    .test_div {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 50px;
+        margin-bottom: 40px;
+    }
+
+    .link_div a {
+        white-space: unset;
+        font-size: 16px;
+    }
+
+    .link_div a p {
+        width: 250px;
+    }
+}

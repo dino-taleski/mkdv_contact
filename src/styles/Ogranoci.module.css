@@ -1,0 +1,162 @@
+.main_div {
+    padding-inline: 80px;
+    margin: 40px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main_text {
+    width: 60%;
+    align-self: center;
+}
+
+.ogranoci_img {
+    width: 35%;
+    align-self: center;
+}
+
+.heading {
+    font-size: var(--fs-large);
+    color: var(--red-main);
+    font-weight: var(--fw-heavy);
+}
+
+.subtext {
+    font-size: var(--fs-medium);
+    letter-spacing: 5px;
+    margin-bottom: 40px;
+}
+
+.numbers_subdiv {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.number_subtext {
+    color: var(--red-main);
+}
+.numbers_div {
+    display: flex;
+    justify-content: space-around;
+}
+
+.mkd_region {
+    background-image: url("/images/map_mk.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 40px;
+}
+
+.regions {
+    padding: 80px 180px;
+}
+
+.regions_div {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin-bottom: 45px;
+    margin-inline: 100px;
+}
+
+.regions_div div {
+    width: 70%;
+}
+
+.regions_div div:first-child {
+    margin-right: 60px;
+}
+
+.region_heading {
+    font-size: var(--fs-medium);
+    font-weight: var(--fw-heavy);
+    margin-bottom: 20px;
+    color: var(--red-main);
+}
+
+.region-text {
+    font-size: var(--fs-small);
+}
+
+@media screen and (min-width: 1440px) {
+    .break {
+        display: block;
+    }
+
+    .subtext {
+        font-size: var(--fs-small);
+    }
+}
+
+@media screen and (max-width: 1366px) {
+    .main_text {
+        width: 60%;
+    }
+
+    .heading {
+        font-size: var(--fs-large);
+    }
+
+    .subtext {
+        font-size: var(--fs-small);
+    }
+
+    .break {
+        display: none;
+    }
+}
+
+/* optimize for mobile */
+@media screen and (max-width: 425px) {
+    .main_div {
+        margin: 0 0 40px 0;
+
+        padding-inline: 20px;
+        flex-direction: column;
+    }
+
+    .heading {
+        font-size: var(--fs-medium);
+    }
+
+    .subtext {
+        font-size: var(--fs-small);
+    }
+
+    .numbers_div {
+        margin-bottom: 20px;
+    }
+
+    .main_text {
+        width: 100%;
+    }
+
+    .ogranoci_img {
+        width: 100%;
+    }
+
+    .regions {
+        padding: 20px 20px;
+    }
+
+    .regions div:first-child {
+        margin-bottom: 45px;
+        margin-right: 0;
+    }
+
+    .regions_div {
+        flex-direction: column;
+        margin-inline: 20px;
+        margin-left: 0;
+    }
+
+    .mkd_region {
+        background-image: none;
+    }
+
+    .regions_div div {
+        width: 100%;
+    }
+}

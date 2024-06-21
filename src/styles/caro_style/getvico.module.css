@@ -1,0 +1,156 @@
+.main_div {
+    padding-inline: 80px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 50px;
+}
+
+.event_img_div {
+    border-radius: 50px;
+    justify-self: center;
+    margin: 40px 0;
+}
+
+.event_img {
+    border-radius: 50px;
+    width: 500px;
+}
+
+.event_text {
+    align-self: center;
+    margin-bottom: 40px;
+}
+
+.event_date {
+    font-size: var(--fs-small);
+    color: var(--red-main);
+}
+
+.event_title {
+    color: var(--red-main);
+    font-size: var(--fs-medium);
+    font-weight: var(--fw-heavy);
+}
+
+.event_blurb {
+    padding: 40px 0;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.event_btn {
+    border: 2px solid var(--red-main);
+    background-color: white;
+    border-radius: 50px;
+    color: var(--red-main);
+    font-weight: var(--fw-heavy);
+    margin: 20px 0 0 0;
+    padding: 15px 20px;
+    transition: color 0.4s ease-in-out, background-color 0.4s ease-in-out;
+}
+
+.event_btn:hover {
+    background-color: var(--red-main);
+    color: white;
+}
+
+.event_btn_div {
+    display: flex;
+    justify-content: center;
+}
+
+.imgs_div {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    padding-inline: 80px;
+    gap: 10px;
+    margin: 40px 0;
+}
+
+.modal_body {
+    width: max-content;
+    align-self: center;
+    scale: 1 !important;
+}
+
+.modal_diag_fix {
+    width: max-content;
+    padding: 50px;
+    margin: 0 auto;
+    scale: 1;
+}
+
+.modal_cont_fix {
+    background-color: transparent;
+}
+
+.img {
+    width: 900px;
+}
+
+.callfp {
+    font-size: var(--fs-medium);
+    color: var(--red-main);
+    text-decoration: none;
+}
+
+.callfp:hover {
+    text-decoration: underline;
+}
+
+.callfp p {
+    margin: 30px 0;
+}
+
+.caro_main {
+    max-width: min-content;
+}
+
+.caro_prev_btn {
+    left: -15%;
+}
+
+.caro_next_btn {
+    right: -15%;
+}
+
+.caro_prev_icon {
+    background-image: url("/assets/caro_prev_arrow.png");
+}
+
+.caro_next_icon {
+    background-image: url("/assets/caro_next_arrow.png");
+}
+/* optimize for mobile */
+
+@media screen and (max-width: 425px) {
+    .main_div {
+        padding-inline: 20px;
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .event_img {
+        width: 350px;
+    }
+
+    .imgs_div {
+        grid-template-columns: repeat(1, 1fr);
+        padding-inline: 20px;
+        gap: 10px;
+        margin: 40px 0;
+    }
+
+    .img {
+        width: 300px;
+    }
+
+    .caro_prev_btn {
+        left: 30%;
+        top: 110%;
+    }
+
+    .caro_next_btn {
+        right: 30%;
+        top: 110%;
+    }
+}

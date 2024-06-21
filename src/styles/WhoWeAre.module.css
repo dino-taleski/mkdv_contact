@@ -1,0 +1,232 @@
+.about_us_banner {
+    height: 600px;
+    background-image: url("/images/about_us_main_banner.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.about_us_text {
+    position: absolute;
+    font-size: var(--fs-xlarge);
+    font-weight: var(--fw-heavy);
+    color: var(--beige-main);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.main_div {
+    padding-inline: 80px;
+    margin: 40px 0;
+}
+
+.whoweare_blurb {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.who_we_are_text_div {
+    width: 45%;
+}
+.who_we_are {
+    font-size: var(--fs-large);
+    font-weight: var(--fw-heavy);
+    color: var(--red-main);
+}
+
+.who_we_are_text {
+    font-weight: var(--fw-heavy);
+}
+
+.text_numbers {
+    text-align: center;
+}
+
+.text_numbers_div {
+    display: flex;
+    flex-direction: column;
+}
+.who_we_are_number {
+    font-size: var(--fs-large);
+    font-weight: var(--fw-heavy);
+    color: var(--red-main);
+}
+
+.who_we_are_subtext {
+    color: var(--red-main);
+    font-size: var(--fs-small);
+}
+
+.break_line {
+    margin: 40px 0;
+    border-bottom: 1px solid rgb(175, 175, 175);
+}
+
+.goals_div {
+    display: flex;
+    justify-content: space-around;
+}
+
+.minimal_logo {
+    align-self: center;
+}
+
+.goals {
+    width: 70%;
+}
+
+.goals_heading {
+    font-size: var(--fs-large);
+    color: var(--red-main);
+    font-weight: var(--fw-heavy);
+    margin-bottom: 20px;
+}
+
+.goal_bullets {
+    font-weight: var(--fw-heavy);
+}
+
+.mission_vision_main {
+    background-color: var(--red-main);
+}
+
+.mission_vision {
+    background-color: var(--red-main);
+    padding: 40px 80px 0;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 100px;
+}
+
+.mission_vision_heading {
+    color: var(--beige-main);
+    font-size: var(--fs-large);
+    font-weight: var(--fw-heavy);
+    margin-bottom: 20px;
+}
+.mission_vision_text {
+    color: var(--beige-main);
+    font-size: 20px;
+}
+
+.button_div {
+    display: flex;
+    justify-content: center;
+}
+
+.mision_vision_btn {
+    font-weight: var(--fw-heavy);
+    text-align: center;
+    padding: 15px 25px;
+    margin: 40px 0;
+    background-color: transparent;
+    border-radius: 50px;
+    color: white;
+    border: 2px solid white;
+    transition: color 0.4s ease-in-out, background-color 0.4s ease-in-out;
+}
+
+.mision_vision_btn:hover {
+    background-color: white;
+    color: var(--red-main);
+}
+
+.about_us_secondary_banner {
+    height: 600px;
+    background-image: url("/images/about_us_secondary_banner.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.about_us_slogan_div {
+    padding: 40px 80px;
+    text-align: center;
+}
+
+.slogan {
+    width: 50%;
+    margin: 40px auto;
+    font-size: var(--fs-medium);
+    color: var(--red-main);
+}
+
+.slogan_asc {
+    font-size: var(--fs-medium);
+    color: var(--red-main);
+}
+/* optimize for mobile */
+
+@media screen and (max-width: 1366px) {
+    .break {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .break {
+        display: none;
+    }
+    .about_us_banner {
+        height: 300px;
+    }
+    .about_us_text {
+        font-size: var(--fs-large);
+    }
+
+    .main_div {
+        padding-inline: 20px;
+    }
+
+    .whoweare_blurb {
+        flex-direction: column;
+    }
+
+    .who_we_are {
+        margin-bottom: 20px;
+        font-size: var(--fs-large);
+    }
+    .who_we_are_text_div {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .text_numbers {
+        display: flex;
+    }
+
+    .text_numbers div:first-child {
+        margin-right: 40px;
+    }
+
+    .goals_div {
+        flex-direction: column;
+    }
+
+    .goals {
+        margin: 20px auto 0;
+    }
+
+    .goals_heading {
+        margin-bottom: 20px;
+    }
+
+    .mission_vision {
+        grid-template-columns: none;
+        padding: 40px 20px;
+    }
+
+    .about_us_slogan_div {
+        padding: 40px 20px;
+    }
+
+    .slogan {
+        width: 100%;
+    }
+}

@@ -1,0 +1,321 @@
+{
+    "menu": {
+        "aboutus": "Über uns",
+        "whoweare": "Wer sind wir",
+        "regions": "Regionalzweige",
+        "presidency": "Vorstand",
+        "teams": "Teams",
+        "competition": "Deutscholympiade",
+        "accreditation": "Akkreditierungen",
+        "tests": "Tests",
+        "results": "Ergebnissе",
+        "docsandlinks": "Dokumente und Links",
+        "docs": "Dokumente",
+        "links": "Links",
+        "resources": "Ressourcen",
+        "contact": "Kontakt"
+    },
+    "banner": {
+        "text": "Willkommen auf der Seite des mazedonischen Deutschlehrerverbandes!",
+        "button": "SEI EIN MITGLIED"
+    },
+    "home": {
+        "redheading": "WIR VERBINDEN UND UNTERSTÜTZEN DIE DEUTSCHLEHRER",
+        "redtext": "Unsere Mission ist es, die Liebe zur deutschen Sprache und Kultur zu fördern, indem wir ein starkes Netzwerk von Deutschlehrern aufbauen, Weiterbildungsmöglichkeiten anbieten und kulturelle Veranstaltungen organisieren.",
+        "homelink": "WER SIND WIR"
+    },
+    "pressec": {
+        "presheading": "VON DER PRÄSIDENTIN DES MKDVS",
+        "presblurb1": "Das Erlernen von Fremdsprachen ist für mich persönlich ein Reichtum. Jedoch bin ich der Meinung, dass Deutsch sprechen zu können in dieser heutigen digitalen Ära ein großer Vorteil ist, der es jedem ermöglicht, in allen Bereichen höhere Ziele zu erreichen. ",
+        "presblurb2": "Das ist auch der Hauptgrund, warum wir als Germanisten uns für einen möglichst hochwertigen und modernen Unterricht einsetzen. Dadurch möchten wir unseren Schülern ermöglichen, nicht nur sprachliche, sondern auch sozio-kulturelle Fähigkeiten zu entwickeln, durch die ihnen die Welt offensteht.",
+        "presname": "Gabriela Temelkoska",
+        "prestitle": "Präsidentin, (2023 - 2027)"
+    },
+    "memberssec": {
+        "membersheading": "MITGLIEDER",
+        "membersblurb1": "Gemäß der Satzung kann jeder mazedonische Staatsangehörige Mitglied des Verbandes werden, sobald er seine Satzung akzeptiert",
+        "membersblurb11": " und seine Aktivitäten unterstützt.",
+        "membersblurb2": "Im Moment zählt der Verband etwa 120 Mitglieder, darunter Lehrkräfte von Grund ",
+        "membersblurb22": "und Mittelschulen.",
+        "membersbtn": "SEI EIN MITGLIED"
+    },
+    "partnerssec": {
+        "partnersheading": "PARTNER"
+    },
+    "footer": {
+        "footerheading": "Mazedonischer Deutschlehrerveband",
+        "footeraddress1": "Philologische Fakultät \"Blaze Koneski\"\n",
+        "footeraddress2": "Boulevard \"Goce Delchev\" 9a \n",
+        "footeraddress3": "1000 Skopje \n Republik Nordmazedonien",
+        "footerlinks1": "Sei ein Mitglied",
+        "footerlinks2": "Kontaktieren Sie uns",
+        "quicklinks": "SCHNELLE LINKS",
+        "ql1": "Sei ein Mitglied",
+        "ql2": "Über uns",
+        "ql3": "Regionalzweige",
+        "ql4": "Vorstand",
+        "ql5": "Teams",
+        "ql6": "Akkreditierungen",
+        "ql7": "Tests",
+        "ql8": "Ergebnisse",
+        "copyright": "Mazedonischer Deutschlehrerveband. Alle Rechte vorbehalten."
+    },
+    "whoweare": {
+        "aboutus": "Über UNS",
+        "whoweare": "Wer sind Wir",
+        "whoweareblurb1": "Wir sind eine Gemeinschaft von Lehrern und Pädagogen, die sich dafür einsetzen, die deutsche Sprache und Literatur zu fördern und zu verbreiten.",
+        "whoweareblurb2": "Unsere Ziele und Aufgaben sind vielfältig und zielen darauf ab, eine starke Gemeinschaft von Deutschlehrern aufzubauen und die Bedeutung der deutschen Sprache in unserem Land zu stärken.",
+        "whowearenum1": "120",
+        "whowearesubtxt1": "Lehrerkräfte",
+        "whowearenum2": "8",
+        "whowearesubtxt2": "Regionalzweige"
+    },
+    "goals": {
+        "goalsheading": "Unsere Ziele und Aufgaben umfassen:",
+        "lp1": "Zusammenarbeit zwischen den Lehrkräften der Grund- und Mittelschulen.",
+        "lp2": "Fortbildungsmöglichkeiten zur Verbesserung der erworbenen Kompetenzen durch Trainingsprogramme zur Karriereentwicklung im In- und Ausland.",
+        "lp3": "Popularisierung der deutschen Sprache als eine der attraktivsten Fremdsprachen im Land durch die Organisation verschiedener Aktivitäten und Veranstaltungen.",
+        "lp4": "Netzwerkaufbau mit in- und ausländischen Sprachverbänden und gemeinsame Teilnahme an Projekten zwecks Erzeugung einer produktiven Grundlage über einen anregenden Erfahrungsaustausch im Prozess des lebenslangen Lernens. ",
+        "lp5": "Förderung und Verbreitung von Fachwissen und wissenschaftlichen Leistungen im Bereich Methodik und   Didaktik des Deutschunterrichts."
+    },
+    "mission": {
+        "missionheading": "UNSERE MISSION",
+        "missiontxt1": "DER MAZEDONISCHE DEUTSCHLEHRERVERBAND FÖRDERT ",
+        "missiontxt2": "DIE LIEBE ZUR DEUTSCHEN SPRACHE UND KULTUR UND SETZT SICH FÜR DEREN FÖRDERUNG IN UNSEREM LAND EIN."
+    },
+    "vision": {
+        "visionheading": "UNSERE VISION",
+        "visiontxt1": "Wir schaffen eine Lerngemeinschaft, die einen großen Wert auf die Vielfalt setzt, Kulturbrücken aufbaut und Menschen vereinigt.",
+        "visiontxt2": "Unsere Vision ist es, dass unsere Kollegen als führende Fachleute anerkannt werden und unser Verband als Vorreiter für innovative Lehrmethoden und interkulturellen Austausch bekannt ist.",
+        "visionbtn": "SEI EIN MITGLIED"
+    },
+    "abtus": {
+        "abtusslog": "„Wir bauen eine Welt auf, in der die deutsche Sprache und Kultur erreichbar und inspirativ für alle werden!“"
+    },
+
+    "regions": {
+        "regsheading": "Unsere Aktivitäten und Zusammenarbeit wird im Rahmen der 8 Regionalzweige durchgeführt",
+        "regstxt": "Um eine effektive Unterstützung und Zusammenarbeit zu gewährleisten,",
+        "regstxt2": "ist unser Verband in verschiedene regionale Zweige unterteilt:",
+        "regsnum1": "120",
+        "regssbtxt1": "Lehrerkräfte",
+        "regsnum2": "8",
+        "regssbtxt2": "Regionalzweige",
+        "regh1": "Region Skopje 1 ",
+        "regtxt11": "Aerodrom, Kisela Voda, Karposh, Saraj,",
+        "regtxt12": "Gjorche Petrov, Sopishte, Studenichani, Chucher Sandevo.",
+        "regh2": "Region Skopje 2 ",
+        "regtxt21": "Butel, Gazi Baba, Centar, Shuto Orizari, Arachinovo,",
+        "regtxt22": "Zelenikovo, Ilinden, Petrovec",
+        "regh3": "Zentrale Region ",
+        "regtxt3": "Veles, Kavadarci, Negotino",
+        "regh4": "Region Nordwest ",
+        "regtxt4": "Kumanovo, Kriva Palanka, Kratovo",
+        "regh5": "Region Pelagonija",
+        "regtxt5": "Bitola, Prilep, Resen, Demir Hisar, Krushevo",
+        "regh6": "Region Ost",
+        "regtxt61": "Shtip, Kochani, Vinica, Probishtip, Delchevo,",
+        "regtxt62": "Sveti Nikole, Pehchevo, Berovo",
+        "regh7": "Region West",
+        "regtxt7": "Ohrid, Struga, Kichevo, Gostivar, Tetovo und Debar",
+        "regh8": "Region Südost",
+        "regtxt8": "Radovish, Gevgelija, Valandovo, Dojran, Strumica"
+    },
+    "pres": {
+        "preshead": "VORSTAND",
+        "prestxt": "Gemeinsam setzen wir uns für die Förderung des Deutschunterrichts ein, da die deutsche Sprache in einer globalisierten Welt von großer Bedeutung ist. Wir möchten eine dynamische Umgebung schaffen, die die deutsche Sprache und Kultur stärkt und gleichzeitig die mazedonische Tradition und Kultur im deutschsprachigen Raum fördert.",
+        "memname1": "Gabriela Temelkoska",
+        "memtitle1": "Präsidentin",
+        "memname2": "Nina Ilikj",
+        "memtitle2": "Vizepräsidentin",
+        "memname3": "Saranda Nuredini",
+        "memtitle3": "Sekretärin",
+        "memname4": "Sanda Pulevska Gochev ",
+        "memtitle4": "Mitglied / regionale Präsidentin",
+        "memname5": "Marica Runteva",
+        "memtitle5": "Mitglied / regionale Präsidentin",
+        "memname6": "Aleksandra Minkova",
+        "memtitle6": "Mitglied / regionale Präsidentin",
+        "memname7": "Rexhije Demiri",
+        "memtitle7": "Mitglied / regionale Präsidentin",
+        "memname8": "Simona Mirchevska - Eftimovska",
+        "memtitle8": "Mitglied des Aufsichtsrats",
+        "memname9": "Elena Jadrovska Petkov",
+        "memtitle9": "Mitglied des Aufsichtsrats",
+        "memname10": "Ivana Mahovska Shikaleska",
+        "memtitle10": "Mitglied des Aufsichtsrats"
+    },
+    "teams": {
+        "teamshead": "TEAMS",
+        "teamstxt": "Im Verband haben wir spezialisierte Teams für verschiedene Aufgabenbereiche wie Unterricht, Kunst und Kultur, Organisation von Wettbewerben und Veranstaltungen, sowie für die Erstellung von Publikationen und die Internetpräsenz.",
+        "teamhead1": "Team für Unterricht",
+        "teamtxt1": "Dieses Team besteht aus erfahrenen Kolleginnen und Kollegen, die umfassende Unterstützung bei der Erstellung von Lehrplänen, Unterrichtsszenarien und weiteren Lösungen bieten.",
+        "teamhead2": "Team für Kunst und Kultur",
+        "teamtxt2": "Das Team besteht aus Kolleginnen und Kollegen, die in der Lage sind, die Organisation und Teilnahme an vielfältigen kulturell-künstlerischen Veranstaltungen zu initiieren und zu fördern. Ihr Ziel ist es, die deutsche Sprache und Kultur zu promovieren. ",
+        "teamhead3": "Team für die Organisation der Deutscholympiade",
+        "teamtxt3": "Dieses Team besteht aus Mitgliedern der Kommissionen, die für die Organisation und die Durchführung der regionalen und nationalen Deutscholympiade zuständig sind.",
+        "teamhead4": "Team für die Organisation von Tagungen, Seminaren und Workshops",
+        "teamtxt4": "In diesem Team sind erfahrene Trainer:innen (Multiplikator:innen) vertreten, die durch verschiedene Schulungsformate und den Austausch von Erfahrungen die berufliche Weiterentwicklung unserer Mitglieder fördern.",
+        "teamhead51": "Team für die Erstellung",
+        "teamhead52": " eines E-Magazines",
+        "teamtxt5": "In diesem Team sind erfahrene Kollegen, die über digitale und grafische Kompetenzen verfügen und bereit sind, die Veranstaltungen des Verbandes grafisch zusammenzufassen und zu veröffentlichen.",
+        "teamhead61": "Team für",
+        "teamhead62": "Online-Publicity",
+        "teamtxt6": "Dieses Team besteht aus den Administratoren der Facebook-Fanseite sowie den Administratoren dieser Webseite."
+    },
+    "contact": {
+        "contformh": "KONTAKTIEREN SIE UNS",
+        "contob": "*Benötigte Felder",
+        "contname": "VORNAME",
+        "contsurname": "NACHNAME",
+        "contemail": "E-MAIL",
+        "contmessage": "NACHRICHT",
+        "contbtn": "ABSENDEN",
+        "continfoh": "KONTAKTDATEN:",
+        "contmkdv": "Mazedonischer Deutschlehrerverband",
+        "conthq": "Verbandssitz:",
+        "contad1": "Philologische Fakultät \"Blaze Koneski\"\n",
+        "contad2": "Boulevard \"Goce Delchev\" 9a \n",
+        "contad3": "1000 Skopje \n Republik Nordmazedonien",
+        "contem": "E-mail:",
+        "contem1": "deutschlehrerverband.mkd@gmail.com",
+        "contem2": "dlvmak@yahoo.de"
+    },
+    "acc": {
+        "acc1": "AKKREDITIERUNG FÜR DIE GRUNDSCHULEN",
+        "acc2": "AKKREDITIERUNG FÜR DIE MITTELSCHULEN",
+        "acc3": "RICHTLINIEN FÜR DIE DURCHFÜHRUNG DER NDO FÜR GS",
+        "acc4": "RICHTLINIEN FÜR DIE DURCHFÜHRUNG DER NDO FÜR MS",
+        "acc5": "Dreijähriger Zeitplan für die Durchführung der DO an Grundschulen",
+        "acc6": "Dreijähriger Zeitplan für die Durchführung der DO an Mittelschulen"
+    },
+    "tests": {
+        "testh": "TESTS",
+        "testtxt": "Hier sind die Sprachtests der RDO und NDO für die Grund- und Mittelschulen aus dem Jahr 2023 und 2024 zu finden.",
+        "test1": "TESTS FÜR DIE GRUNDSCHULE 2023",
+        "test2": "TESTS FÜR DIE GRUNDSCHULE 2024",
+        "test3": "TESTS FÜR DIE MITTELSCHULE 2024"
+    },
+    "res": {
+        "resh": "ERGEBNISSE",
+        "resach1": "Ergebnisse der nationalen Deutscholympiade 2024",
+        "resact1": "Endgültige Ergebnisse der nationalen Deutscholympiade für die Grund- und Mittelschulen 2024",
+        "resach2": "Ergebnisse der regionalen Deutscholympiade 2024",
+        "resact2": "Ergebnisse der RDO der Region Skopje 1 für die Grundschulen",
+        "resact3": "Ergebnisse der RDO der Region Skopje 2 für die Grundschulen",
+        "resact4": "Ergebnisse der RDO der Region Skopje 1 u 2 für die Mittelschulen",
+        "resact5": "Ergebnisse der RDO der östlichen Region für die Grund- und Mittelschulen",
+        "resact6": "Ergebnisse der RDO der zentralen Region und Region PELAGONIJA für die Grund- und Mittelschulen",
+        "resact7": "Ergebnisse der RDO der südöstlichen Region für die Grund- und Mittelschulen",
+        "resact8": "Ergebnisse der RDO der westlichen Region für die Grund- und Mittelschulen"
+    },
+    "docs": {
+        "docsh": "DOKUMENTE",
+        "docstxt": "Hier könnten Sie nützliche Dokumete finden, die die Arbeit des Verbandes berücksichtigen",
+        "docst1": "SATZUNG DES MKDVs",
+        "docst21": "MEMORANDUM ZUR KOOPERATION ",
+        "docst22": "MIT DER STADT SKOPJE",
+        "docst31": "AKKREDITIERUNG FÜR",
+        "docst32": "DIE GRUNDSCHULEN",
+        "docst41": "AKKREDITIERUNG FÜR",
+        "docst42": "DIE MITTELSCHULEN",
+        "docst51": "DEUTSCHEOLYMPIADE BERICHT 2024",
+        "docst61": "DEUTSCHEOLYMPIADE BERICHT 2023"
+    },
+    "ann": {
+        "ann1": {
+            "date": "Juni 2024",
+            "title": "Virtuelle Deutschlehrertagung GETVICO24",
+            "para1": "Haben Sie die Konferenz GETVICO24 schon vermisst? Dieses Jahr ist sie vom 6. bis 7. Juni 2024 wieder am Start.",
+            "para2": "Am 6. Juni wird die Konferenz um 16:30 Uhr (MESZ) eröffnet. Sind Sie bereit? Mehr Details finden Sie auf dieser Seite.",
+            "btn": "ERFAHRE MEHR"
+        },
+        "ann2": {
+            "date": "Juli 2024",
+            "title": "Internationale Deutscholympiade (IDO) 2024",
+            "para1": "Vom 15. bis 22. Juli 2024 findet der weltweit größte Wettbewerb zur deutschen Sprache statt. ",
+            "para2": "Unter dem Motto „Dabei sein! Wissen schaffen, Zukunft machen“ werden über 100 Jugendliche aus rund 60 Ländern in Göttingen erwartet. Die Internationale Deutscholympiade (IDO) wird alle zwei Jahre vom Goethe-Institut in Kooperation mit dem Internationalen Deutschlehrerinnen- und Deutschlehrerverband veranstaltet.",
+            "para3": "Ana Kotevska und Marija Stefanovska aus Skopje sind unsere Vertreterinnen bei der Internationalen Deutscholympiade in Göttingen. ",
+            "para4": "Wir wünschen ihnen viel Glück!",
+            "btn": "ERFAHRE MEHR"
+        },
+        "ann3": {
+            "date": "Juli – August 2025",
+            "title": "INTERNATIONALE DEUTSCHLEHRERTAGUNG - IDT 2025",
+            "para1": "Die Internationale Deutschlehrertagung findet vom 28.07. bis zum 01.08.2025 in Lübeck, Deutschland, statt.",
+            "para2": "Alle interessierten Kolleginnen und Kollegen können sofort ihre Teilnahme anmelden, indem sie einen entsprechenden Abstract über folgenden Link einreichen: ",
+            "btn": "ERFAHRE MEHR"
+        },
+        "ann4": {
+            "date": "März 2024",
+            "title": "FINALE DER NATIONALEN DEUTSCHOLYMPIADE 2024",
+            "para1": "Am 16.03.2024 fand das große Finale der nationalen Deutscholympiade am Gymnasium „Georgi Dimitrov“ in Skopje statt, an dem 222 Schülerinnen und Schüler aus Grundschulen sowie etwa 100 Schülerinnen und Schüler aus den Mittelschulen teilnahmen.",
+            "para2": "Der Deutschlehrerverband drückt seine herzliche Dankbarkeit gegenüber der Botschafterin der Bundesrepublik Deutschland, Frau Petra Drexler, sowie der Direktorin des Goethe-Instituts Skopje, Frau Katrin Ostwald-Richter, aus.",
+            "para3": "Ihre Anwesenheit bei der Eröffnung des Wettbewerbs unterstreicht unser Engagement als Deutschlehrkräfte bei der Förderung der deutschen Sprache in unserem Land.",
+            "btn": "ERFAHRE MEHR"
+        },
+        "ann5": {
+            "date": "Februar 2024",
+            "title": "Regionale Deutscholympiade 2024",
+            "para1": "Am 24.02.2024 fand die regionale Deutscholympiade mit ca. 780 Teilnehmenden aus Grund- und Mittelschulen Mazedoniens statt. Die besten 320 Schüler*innen kommen ins Finale am 16.03.2024 im Gymnasium \"Georgi Dimitrov\" in Skopje.",
+            "btn": "ERFAHRE MEHR"
+        },
+        "ann6": {
+            "date": "Januar 2024",
+            "title": "Comicwettbewerb zum Thema: „Weihnachtsmärkte in Deutschland",
+            "para1": "Zum großen christlichen Fest Weihnachten freuen wir uns, die Gewinner des Wettbewerbs für die bestgestalteten Comics zum Thema \"Weihnachtsmärkte in Deutschland\" bekannt zu geben.",
+            "para2": "Wir gratulieren herzlich:",
+            "para3": " - Leonida Ilijoska - Gymnasium \"Mirce Acev\" - Prilep (Mentorin: Elena K. Lashkoska)",
+            "para4": " - Jovan und Dragana Spasovi - Grundschule \"Gjorgja Pulevski\" - Skopje (Mentorin: Sanja Jankoska Ristova)",
+            "para5": " - Angela und Dushica Breslievi - Grundschule \"Vanco Prke\" - Stip (Mentorin: Marica Runteva)",
+            "para6": " - Ana Polizovska - Gymnasium \"Josip Broz Tito\" - Bitola (Mentorin: Nina Ilikj)",
+            "para7": " - Bojan Filiposki - Gymnasium \"Mirce Acev\" - Prilep (Mentorin: Elena K. Lashkoska)",
+            "para8": "Den anderen Schülern danken wir für ihre Teilnahme und wünschen ihnen viel Erfolg bei ihren nächsten Versuchen.",
+            "btn": "ERFAHRE MEHR"
+        },
+        "ann7": {
+            "date": "Oktober 2023",
+            "title": "XIV. BOSNISCH - HERZEGOWINISCHE DEUTSCHLEHRERTAGUNG ZUM THEMA: „KULTUR IM FOKUS” ",
+            "para1": "Unsere Präsidentin Gabriela Temelkoska und die Vizepräsidentin Nina Ilikj vertraten von 13. bis 16. Oktober 2023 unseren Deutschlehrerverband mit dem eigenen Workshop an der nationalen Deutschlehrertagung in Sarajevo, Bosnien und Herzegowina.",
+            "para2": "Anbei können Sie einen kleinen Überblick in unserem Workshop erhalten.",
+            "btn": "ERFAHRE MEHR"
+        },
+        "ann8": {
+            "date": "Oktober 2023",
+            "title": "Karrieremesse EXPO-SUBEX 2023: Panel-Diskussion zum Thema 'Berufliche Möglichkeiten durch das Erlernen der deutschen Sprache' und interaktive Workshops für Deutschlernende des Goethe-Instituts Skopje.",
+            "para1": "Circa 100 Schülerinnen und Schüler von 6 verschiedenen Mittelschulen aus verschiedenen Regionen unseres Landes nahmen an der Podiumsdiskussion \"Karrieremöglichkeiten durch das Erlernen der deutschen Sprache\" und den Workshops des Goethe-Instituts Skopje im Rahmen der diesjährigen Balkanlieferantenmesse EXPO - SUBEX 2023 teil, die von der Delegation der Deutschen Wirtschaftskammer in Nordmazedonien (AHK) organisiert wurde.",
+            "btn": "ERFAHRE MEHR"
+        },
+        "ann9": {
+            "date": "Mai 2023",
+            "title": "Finale der nationalen Deutscholympiade für die Grundschule",
+            "para1": "Am Samstag, den 27. Mai 2023, fand das Finale der diesjährigen Deutscholympiade für die Grundschulen statt, an der mehr als 275 Schülerinnen und Schüler - Liebhaber der deutschen Sprache und Kultur - teilnahmen. Sie konkurrierten in vier Kategorien von der sechsten bis zur neunten Klasse und bestätigten erneut, dass der Ausdruck \"Deutsch macht Spaß\" nicht nur ein Sprichwort ist, sondern eher eine Realität.",
+            "para2": "Der Wettbewerb fand in Prilep, der Stadt unter der Festung von dem Held König Marko, genauer gesagt in der zentralen Grundschule \"Kocho Racin\", statt. Die Gastgeber - das Lehrerteam der Grundschule \"Kocho Racin\"  Prilep, unter der Leitung der Deutschlehrerinnen und der Schuldirektorin Frau Julijana Trenkoska, sorgten dafür, dass dieses Ereignis eine süße Erinnerung wurde, über die wir alle noch lange sprechen werden.",
+            "para3": "Wir Lehrerinnen und Lehrer können Wunder vollbringen! Genau wie dieses. Und wissen Sie warum? Weil für uns Lehrerinnen und Lehrer das Glück, die Freude und das Lächeln der Kinder das Wichtigste sind! Wir ermöglichen es den Schülerinnen und Schülern, die deutsche Sprache auf kreative Weise zu lernen, weil Deutsch, Spaß macht!",
+            "para4": "Wir nutzen diese Gelegenheit, um unseren Freunden vom Goethe-Institut Skopje zu danken, ohne deren Unterstützung wir dieses Format des Unterrichts und der Wettbewerbsaktivitäten von Weltniveau nicht anbieten könnten. ",
+            "para5": "Wir möchten uns auch bei der Botschaft der Bundesrepublik Deutschland in Skopje und dem Stadtrat von Prilep bedanken, die durch die Anwesenheit ihrer Vertreter diesem Ereignis eine besondere Bedeutung verliehen haben. ",
+            "para6": "Zum Schluss möchten wir unseren Sponsoren \"VITAMINKA\" AD Prilep, \"KOŽUVČANKA\" DOO Kavadarci und \"ARS LAMINA\" Skopje herzlich danken, die einmal mehr gezeigt haben, dass sie immer bereit sind, bei der Unterstützung der Kinder und ihres Glücks zusammenzuarbeiten.",
+            "para7": "Wir gratulieren den Preisträgern von Herzen und sind stolz darauf, dass alle Schülerinnen und Schüler, unabhängig davon, ob sie einen Preis gewonnen haben oder nicht, besonders stolze Unterstützer der deutschen Sprache und Kultur sind.",
+            "para8": "Bis zum nächsten Mal mögen die Fotos für das wundervolle Ereignis sprechen.",
+            "btn": "ERFAHRE MEHR"
+        },
+        "ann10": {
+            "date": "Dezembar 2023",
+            "title": "Weihnachtsmarkt in Bitola",
+            "para1": "Wir lernen die deutsche Tradition kennen und teilen dabei die Vorweihnachtsmagie und positive Werte.",
+            "para2": "Ein herzliches Dankeschön an alle Liebhaber der deutschen Sprache und Kultur, die gestern am 23.12.2023 den deutschen Weihnachtsmarkt in Bitola besucht haben.",
+            "para3": "Ein großes Lob an die Schülerinnen und Schüler sowie Lehrkräfte der Germanistik aus allen Grund- und weiterführenden Schulen in Bitola.",
+            "para4": "Zusammen sind wir stark!",
+            "btn": "ERFAHRE MEHR"
+        }
+    },
+    "events": {
+        "heading": "Events"
+    },
+    "resource": {
+        "heading": "РЕСУРСИ",
+        "reslink1": "UNTERRICHTSPLÄNE",
+        "reslink21": "BÜRO FÜR",
+        "reslink22": "BILDUNGSENTWICKLUNG"
+    }
+}

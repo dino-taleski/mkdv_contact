@@ -1,0 +1,491 @@
+.main_banner_div {
+    background-image: url("/images/main_banner.jpg");
+    height: 720px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.main_banner_text {
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    transform: translateY(-50%);
+    width: 600px;
+    color: #fdf6e9;
+}
+
+.main_banner_para {
+    font-size: 36px;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+    font-weight: var(--fw-heavy);
+}
+
+.main_banner_subtitle {
+    font-size: var(--fs-small);
+    font-weight: var(--fw-nor);
+    letter-spacing: 5px;
+    margin-bottom: 20px;
+}
+
+.main_banner_button_div {
+    display: flex;
+    justify-content: center;
+}
+
+.main_banner_button {
+    padding: 15px 43px;
+    border-radius: 50px;
+    background-color: transparent;
+    color: var(--beige-main);
+    border: 2px solid var(--beige-main);
+    margin: 40px auto 0;
+    font-weight: var(--fw-heavy);
+    letter-spacing: 1px;
+    transition: background-color 0.4s ease-in-out, color 0.4s ease-in-out;
+}
+
+.main_banner_button:hover {
+    background-color: var(--beige-main);
+    color: var(--red-main);
+    cursor: pointer;
+}
+
+.main_blurb {
+    background-color: var(--red-main);
+    text-align: center;
+    color: var(--beige-main);
+    padding: 80px;
+}
+
+.heading {
+    font-size: var(--fs-large);
+    font-weight: var(--fw-heavy);
+    margin-bottom: 40px;
+}
+
+.paragraph {
+    font-weight: var(--fw-now);
+    font-size: var(--fs-medium);
+    margin: 0 auto 40px;
+
+    width: 80%;
+}
+
+.blurb_link {
+    font-weight: var(--fw-heavy);
+    font-size: 60px;
+    text-transform: uppercase;
+    transition: color 0.2s ease-in-out;
+    text-decoration: none;
+    color: var(--beige-main);
+}
+
+.blurb_link:hover {
+    cursor: pointer;
+    color: var(--yellow-main);
+}
+
+.sec_banner {
+    background-image: url("/images/secondary_banner.jpg");
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.carousel {
+    background-color: var(--red-main);
+    padding: 40px 80px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.carousel_inner_div {
+    display: flex;
+    padding: 40px;
+}
+
+.carousel_text {
+    width: 50%;
+    align-self: center;
+}
+
+.carousel_date {
+    font-size: var(--fs-small);
+    color: var(--yellow-main);
+    margin-bottom: 10px;
+}
+
+.carousel_title {
+    font-size: var(--fs-medium);
+    font-weight: var(--fw-heavy);
+    color: var(--beige-main);
+    margin-bottom: 25px;
+}
+
+.carousel_paragraph {
+    font-size: var(--fs-small);
+    color: var(--beige-main);
+    padding: 40px 0;
+    border-top: 1px solid var(--yellow-main);
+    border-bottom: 1px solid var(--yellow-main);
+    margin-bottom: 35px;
+}
+
+.carousel_buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.carousel_img {
+    margin-inline: 50px;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+}
+
+.carousel_img a {
+    margin-top: 20px;
+    align-self: center;
+    text-decoration: none;
+}
+
+.carousel_img_button {
+    color: var(--yellow-main);
+    padding: 8px 16px;
+    font-weight: var(--fw-heavy);
+    background-color: transparent;
+    border: 1px solid var(--yellow-main);
+    border-radius: 50px;
+    transition: color 0.3s ease-in-out, background-color 0.3s ease-in-out;
+}
+
+.carousel_img_button:hover {
+    border: 1px solid var(--yellow-main);
+    background-color: var(--yellow-main);
+    color: white;
+}
+
+.prev_btn {
+    justify-content: unset;
+    bottom: -75%;
+    left: 17%;
+}
+
+.prev_icon_btn {
+    background-image: url("/assets/arrow_left.png");
+}
+.next_btn {
+    justify-content: unset;
+    left: 30%;
+    bottom: -75%;
+}
+
+.next_icon_btn {
+    background-image: url("/assets/arrow_right.png");
+}
+
+.president_sec {
+    margin: 40px AUTO 0;
+    padding-inline: 150px;
+    text-align: center;
+    width: 60%;
+}
+
+.president_heading {
+    font-size: var(--fs-large);
+    font-weight: var(--fw-heavy);
+    color: var(--red-main);
+    margin-bottom: 20px;
+}
+
+.president_blurb {
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.president_img {
+    display: flex;
+    justify-content: center;
+}
+
+.member_div {
+    align-self: center;
+    margin-left: 30px;
+}
+
+.member_name {
+    font-size: var(--fs-medium);
+    font-weight: var(--fw-heavy);
+    color: var(--red-main);
+}
+
+.member_title {
+    font-size: var(--fs-small);
+}
+
+.members_sec {
+    margin: 40px 0 0;
+    padding-inline: 150px;
+    text-align: center;
+}
+
+.line {
+    border-bottom: 1px solid black;
+}
+
+.members_heading {
+    font-size: 60px;
+    font-weight: var(--fw-heavy);
+    color: var(--red-main);
+    border-top: 1px solid rgb(175, 175, 175);
+    padding: 40px 0;
+}
+
+.members_blurb {
+    font-size: 20px;
+    margin: 0 auto 40px;
+    width: 80%;
+}
+
+.members_button {
+    font-weight: var(--fw-heavy);
+    color: var(--red-main);
+    font-size: var(--fs-small);
+    background-color: transparent;
+    border: 2px solid var(--red-main);
+    border-radius: 50px;
+    padding: 15px 43px;
+    transition: color 0.4s ease-in-out, backgrdoun-color 0.4s ease-in-out;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.members_button:hover {
+    color: var(--beige-main);
+    background-color: var(--red-main);
+}
+
+.partners_sec {
+    padding-inline: 150px;
+    margin-bottom: 40px;
+}
+
+.partners_heading {
+    font-size: 60px;
+    text-align: center;
+    color: var(--red-main);
+    font-weight: var(--fw-heavy);
+    border-top: 1px solid rgb(175, 175, 175);
+    padding: 40px 0;
+}
+
+.partners_logos {
+    display: flex;
+    justify-content: space-around;
+}
+
+.partners_logos img {
+    transition: opacity 0.4s ease-in-out;
+}
+
+.partners_logos img:hover {
+    opacity: 60%;
+}
+
+.break {
+    display: none;
+}
+
+.bnt.fix {
+    justify-content: center;
+}
+
+.announcement {
+    padding: 40px 0;
+}
+
+@media screen and (max-width: 1440px) {
+    .president_sec {
+        padding-inline: 0;
+    }
+}
+
+/* optimize for mobile */
+
+@media screen and (min-width: 1366px) {
+    .president_sec {
+        width: 90%;
+    }
+
+    .members_blurb {
+        width: 100%;
+    }
+
+    .prev_btn {
+        bottom: -85%;
+        left: 17%;
+    }
+
+    .next_btn {
+        left: 30%;
+        bottom: -85%;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .break {
+        display: block;
+    }
+    .main_banner_div {
+        height: 500px;
+        background-attachment: fixed;
+    }
+
+    .main_banner_text {
+        width: 200px;
+    }
+    .main_banner_para {
+        font-size: var(--fs-small);
+    }
+
+    .main_banner_subtitle {
+        font-size: var(--fs-xs);
+    }
+
+    .main_blurb {
+        padding: 40px 20px;
+    }
+
+    .heading {
+        font-size: var(--fs-medium);
+    }
+
+    .paragraph {
+        font-size: var(--fs-small);
+    }
+
+    .blurb_link {
+        font-size: var(--fs-medium);
+    }
+
+    .sec_banner {
+        height: 400px;
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: -650px;
+    }
+
+    .carousel_inner_div {
+        flex-direction: column;
+        padding: 0;
+    }
+
+    .carousel {
+        display: flex;
+        flex-direction: column;
+        padding: 40px 20px;
+    }
+
+    .carousel_text {
+        width: 100%;
+        margin-bottom: 80px;
+    }
+
+    .carousel_buttons {
+        margin-bottom: 40px;
+    }
+
+    .announcement {
+        margin: 20px 0;
+        text-align: center;
+    }
+
+    .president_sec {
+        padding-inline: 20px;
+        width: 100%;
+    }
+
+    .president_heading {
+        font-size: var(--fs-medium);
+    }
+
+    .president_blurb {
+        font-size: var(--fs-small);
+    }
+
+    .president_img {
+        flex-direction: column;
+    }
+
+    .pres_img {
+        align-self: center;
+    }
+
+    .member_div {
+        margin-left: 0;
+    }
+
+    .members_sec {
+        padding-inline: 20px;
+    }
+
+    .members_heading {
+        font-size: var(--fs-medium);
+    }
+
+    .members_blurb {
+        font-size: var(--fs-small);
+    }
+
+    .partners_sec {
+        padding-inline: 20px;
+    }
+
+    .partners_heading {
+        font-size: var(--fs-medium);
+    }
+
+    .members_button {
+        padding: 10px 25px;
+    }
+
+    .main_banner_button {
+        padding: 10px 25px;
+    }
+
+    .main_banner_subtitle {
+        width: 300px;
+    }
+
+    .president_blurb {
+        font-size: var(--fs-small);
+    }
+
+    .carousel_text {
+        margin-bottom: 0;
+    }
+
+    .prev_btn {
+        bottom: 93%;
+        left: 30%;
+    }
+
+    .next_btn {
+        bottom: 93%;
+        left: 60%;
+    }
+
+    .carousel_img img {
+        width: 360px !important;
+    }
+
+    .carousel_inner_mob {
+        padding-top: 80px;
+    }
+}

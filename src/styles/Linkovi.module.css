@@ -1,0 +1,39 @@
+.main_div {
+    padding: 0 80px;
+}
+
+.partners_sec {
+    margin: 40px 0;
+}
+.partners_logos {
+    display: flex;
+    justify-content: space-around;
+}
+
+.partners_logos img {
+    transition: opacity 0.4s ease-in-out;
+}
+
+.partners_logos img:hover {
+    opacity: 60%;
+}
+
+/* optimize for mobile */
+
+@media screen and (max-width: 425px) {
+    .main_div {
+        padding: 0 20px;
+    }
+
+    .partners_logos {
+        flex-direction: column;
+    }
+
+    .partners_logos img {
+        width: 100% !important;
+    }
+
+    .partners_logos img:not(:last-child) {
+        margin-bottom: 40px;
+    }
+}
