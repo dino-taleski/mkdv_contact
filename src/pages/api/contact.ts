@@ -35,17 +35,17 @@ export default async function handler(
           {
             "From": {
               "Email": "contact@kdgroup.mk",
-              "Name": "Нова порака | MKDV"
+              "Name": "КОНТАКТ | MKDV"
             },
             "To": [
               {
                 "Email": "dinotaleski@gmail.com",
-                "Name": "passenger 1"
+                "Name": "MKDV"
               }
             ],
-            "Subject": "Your email flight plan!",
+            "Subject": `Нова порака од ${name} ${surName}`,
             "TextPart": "Dear passenger 1, welcome to Mailjet! May the delivery force be with you!",
-            "HTMLPart": `<h3>Dear passenger 1, welcome to <a href=\"https://www.mailjet.com/\">Mailjet</a>!</h3><br />May the delivery force be with you! ${name}, ${email}, ${message} ${surName}`
+            "HTMLPart": `<h3>Лице за контакт ${name} ${surName} со е-мејл: ${email} </h3><br />Порака: ${message}`
           }
         ]
       });
