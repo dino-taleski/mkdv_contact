@@ -92,7 +92,11 @@ export default function Home() {
                                             src="./carousel/caro_2.png"
                                             alt="carousel image 1"
                                         />
-                                        <Link href={"/nastani/getvico24.html"}>
+                                        <Link
+                                            href={
+                                                "https://www.mkdv.mk/nastani/getvico24.html"
+                                            }
+                                        >
                                             <button
                                                 className={
                                                     styles.carousel_img_button
@@ -130,7 +134,11 @@ export default function Home() {
                                             src="/images/carousel_img1.png"
                                             alt="carousel image 1"
                                         />
-                                        <Link href={"/nastani/ido2024.html"}>
+                                        <Link
+                                            href={
+                                                "https://www.mkdv.mk/nastani/ido2024.html"
+                                            }
+                                        >
                                             <button
                                                 className={
                                                     styles.carousel_img_button
@@ -168,7 +176,11 @@ export default function Home() {
                                             src="/carousel/caro_5.png"
                                             alt="carousel image 1"
                                         />
-                                        <Link href={"/nastani/idt2025.html"}>
+                                        <Link
+                                            href={
+                                                "https://www.mkdv.mk/nastani/idt2025.html"
+                                            }
+                                        >
                                             <button
                                                 className={
                                                     styles.carousel_img_button
@@ -208,7 +220,7 @@ export default function Home() {
                                         />
                                         <Link
                                             href={
-                                                "/nastani/drzavna-olimpijada-2024.html"
+                                                "https://www.mkdv.mk/nastani/drzavna-olimpijada-2024.html"
                                             }
                                         >
                                             <button
@@ -250,7 +262,7 @@ export default function Home() {
                                         />
                                         <Link
                                             href={
-                                                "/nastani/regionalen-natprevar-po-germanski-jazik-2024.html"
+                                                "https://www.mkdv.mk/nastani/regionalen-natprevar-po-germanski-jazik-2024.html"
                                             }
                                         >
                                             <button
@@ -292,7 +304,7 @@ export default function Home() {
                                         />
                                         <Link
                                             href={
-                                                "/nastani/konkurs-za-izbor-na-izraboten-strip.html"
+                                                "https://www.mkdv.mk/nastani/konkurs-za-izbor-na-izraboten-strip.html"
                                             }
                                         >
                                             {" "}
@@ -335,7 +347,7 @@ export default function Home() {
                                         />
                                         <Link
                                             href={
-                                                "/nastani/14ti-kongres-na-nastavnici-po-germanski-jazik-vo-bih.html"
+                                                "https://www.mkdv.mk/nastani/14ti-kongres-na-nastavnici-po-germanski-jazik-vo-bih.html"
                                             }
                                         >
                                             <button
@@ -377,7 +389,7 @@ export default function Home() {
                                         />
                                         <Link
                                             href={
-                                                "/nastani/panel-diskusija-skopje.html"
+                                                "https://www.mkdv.mk/nastani/panel-diskusija-skopje.html"
                                             }
                                         >
                                             {" "}
@@ -420,7 +432,7 @@ export default function Home() {
                                         />
                                         <Link
                                             href={
-                                                "/nastani/drzavna-olimpijada-po-germanski-jazik-za-osnovno-obrazovanie-2023.html"
+                                                "https://www.mkdv.mk/nastani/drzavna-olimpijada-po-germanski-jazik-za-osnovno-obrazovanie-2023.html"
                                             }
                                         >
                                             <button
@@ -462,7 +474,7 @@ export default function Home() {
                                         />
                                         <Link
                                             href={
-                                                "/nastani/bozikjen-panagjur-vo-bitola.html"
+                                                "https://www.mkdv.mk/nastani/bozikjen-panagjur-vo-bitola.html"
                                             }
                                         >
                                             <button
