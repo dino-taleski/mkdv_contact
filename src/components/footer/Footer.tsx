@@ -52,43 +52,49 @@ const Footer = () => {
                                 </Link>
                                 <Link
                                     className={styles.quick_links}
-                                    href={"/koi-sme-nie.html"}
+                                    href={
+                                        "https://www.mkdv.mk/koi-sme-nie.html"
+                                    }
                                 >
                                     <li>{t("footer.ql2")}</li>
                                 </Link>
                                 <Link
                                     className={styles.quick_links}
-                                    href={"/ogranoci.html"}
+                                    href={"https://www.mkdv.mk/ogranoci.html"}
                                 >
                                     <li>{t("footer.ql3")}</li>
                                 </Link>
                                 <Link
                                     className={styles.quick_links}
-                                    href={"/pretsedatelstvo.html"}
+                                    href={
+                                        "https://www.mkdv.mk/pretsedatelstvo.html"
+                                    }
                                 >
                                     <li>{t("footer.ql4")}</li>
                                 </Link>
                                 <Link
                                     className={styles.quick_links}
-                                    href={"/timovi.html"}
+                                    href={"https://www.mkdv.mk/timovi.html"}
                                 >
                                     <li>{t("footer.ql5")}</li>
                                 </Link>
                                 <Link
                                     className={styles.quick_links}
-                                    href={"/akreditacii.html"}
+                                    href={
+                                        "https://www.mkdv.mk/akreditacii.html"
+                                    }
                                 >
                                     <li>{t("footer.ql6")}</li>
                                 </Link>
                                 <Link
                                     className={styles.quick_links}
-                                    href={"/testovi.html"}
+                                    href={"https://www.mkdv.mk/testovi.html"}
                                 >
                                     <li>{t("footer.ql7")}</li>
                                 </Link>
                                 <Link
                                     className={styles.quick_links}
-                                    href={"/rezultati.html"}
+                                    href={"https://www.mkdv.mk/rezultati.html"}
                                 >
                                     <li>{t("footer.ql8")}</li>
                                 </Link>

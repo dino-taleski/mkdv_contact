@@ -47,16 +47,20 @@ const Header = () => {
                     <li className={styles.dropdown_main}>
                         {t("menu.aboutus")}
                         <ul className={styles.dropdown_menu}>
-                            <Link href={"/koi-sme-nie.html"}>
+                            <Link href={"https://www.mkdv.mk/koi-sme-nie.html"}>
                                 <li>{t("menu.whoweare")}</li>
                             </Link>
-                            <Link href={"/ogranoci.html"}>
+                            <Link href={"https://www.mkdv.mk/ogranoci.html"}>
                                 <li>{t("menu.regions")}</li>
                             </Link>
-                            <Link href={"/pretsedatelstvo.html"}>
+                            <Link
+                                href={
+                                    "https://www.mkdv.mk/pretsedatelstvo.html"
+                                }
+                            >
                                 <li>{t("menu.presidency")}</li>
                             </Link>
-                            <Link href={"/timovi.html"}>
+                            <Link href={"https://www.mkdv.mk/timovi.html"}>
                                 <li>{t("menu.teams")}</li>
                             </Link>
                         </ul>
@@ -64,13 +68,13 @@ const Header = () => {
                     <li className={styles.dropdown_main}>
                         {t("menu.competition")}
                         <ul className={styles.dropdown_menu}>
-                            <Link href={"/akreditacii.html"}>
+                            <Link href={"https://www.mkdv.mk/akreditacii.html"}>
                                 <li>{t("menu.accreditation")}</li>
                             </Link>
-                            <Link href={"/testovi.html"}>
+                            <Link href={"https://www.mkdv.mk/testovi.html"}>
                                 <li>{t("menu.tests")}</li>
                             </Link>
-                            <Link href={"/rezultati.html"}>
+                            <Link href={"https://www.mkdv.mk/rezultati.html"}>
                                 <li>{t("menu.results")}</li>
                             </Link>
                         </ul>
@@ -78,13 +82,13 @@ const Header = () => {
                     <li className={styles.dropdown_main}>
                         {t("menu.docsandlinks")}
                         <ul className={styles.dropdown_menu}>
-                            <Link href={"/dokumenti.html"}>
+                            <Link href={"https://www.mkdv.mk/dokumenti.html"}>
                                 <li>{t("menu.docs")}</li>
                             </Link>
-                            <Link href={"/linkovi.html"}>
+                            <Link href={"https://www.mkdv.mk/linkovi.html"}>
                                 <li>{t("menu.links")}</li>
                             </Link>
-                            <Link href={"/resursi.html"}>
+                            <Link href={"https://www.mkdv.mk/resursi.html"}>
                                 <li>{t("menu.resources")}</li>
                             </Link>
                         </ul>
