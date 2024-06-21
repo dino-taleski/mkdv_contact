@@ -34,12 +34,12 @@ export default async function handler(
         "Messages": [
           {
             "From": {
-              "Email": "contact@kdgroup.mk",
+              "Email": "contact@mkdv.mk",
               "Name": "КОНТАКТ | MKDV"
             },
             "To": [
               {
-                "Email": "dinotaleski@gmail.com",
+                "Email": "mkdvcontact@gmail.com",
                 "Name": "MKDV"
               }
             ],
